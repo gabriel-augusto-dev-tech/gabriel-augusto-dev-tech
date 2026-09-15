@@ -24,7 +24,7 @@ Um projeto web desenvolvido como uma experiência digital personalizada para cel
 
 **Tecnologias:** HTML, CSS e JavaScript
 
-🔗 [Ver projeto](https://github.com/Gabriel-augusto-dev-tecnologia/7-meses-valentina)
+🔗 [Ver projeto](https://gabriel-augusto-dev-tech.github.io/7-meses-valentina/)
 
 ---
 
